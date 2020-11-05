@@ -1,0 +1,3 @@
+no-color: false
+pipeline: 
+env: dqs
