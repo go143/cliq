@@ -1,8 +1,8 @@
 package cmd
 
 import (
+	u "github.com/go143/cliq/utils"
 	"github.com/spf13/cobra"
-	u "gitlab.booking.com/core/customer360/c360/utils"
 )
 
 func init() {
